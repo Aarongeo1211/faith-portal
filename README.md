@@ -1,3 +1,3 @@
 # faith-portal
 
-A multi faith portal for CHristians,Hindus and Muslims
+A multi faith portal for Christians,Hindus and Muslims
